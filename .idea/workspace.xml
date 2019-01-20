@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6f2d39a7-2b70-49ba-abff-5d0664815b6d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/banner-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/banner-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/g2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/g2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/g3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/g3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/g4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/g4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/g5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/g5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/g6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/g6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/g7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/g7.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/t3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/t3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="6f2d39a7-2b70-49ba-abff-5d0664815b6d" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +13,7 @@
     <session id="583083591">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -40,31 +28,13 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="491" />
+          <entry key="PLAIN_TEXT" value="17" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="373">
-              <caret line="382" column="56" selection-start-line="382" selection-start-column="56" selection-end-line="382" selection-end-column="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/fontawesome-all.min.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2125">
-              <caret line="626" column="18" selection-start-line="626" selection-start-column="12" selection-end-line="626" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -82,7 +52,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="331" />
     <option name="y" value="14" />
     <option name="width" value="1343" />
@@ -134,20 +104,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547957995470</updated>
-      <workItem from="1547957996761" duration="6286000" />
+      <workItem from="1547957996761" duration="6521000" />
     </task>
+    <task id="LOCAL-00001" summary="更新index.html">
+      <created>1547964630186</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1547964630186</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6286000" />
+    <option name="totallyTimeSpent" value="6521000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="916" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16458334" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
@@ -174,6 +151,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="更新index.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新index.html" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -194,8 +175,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="382" column="56" selection-start-line="382" selection-start-column="56" selection-end-line="382" selection-end-column="56" />
+        <state relative-caret-position="76">
+          <caret line="350" column="12" lean-forward="true" selection-start-line="350" selection-start-column="12" selection-end-line="350" selection-end-column="12" />
         </state>
       </provider>
     </entry>
