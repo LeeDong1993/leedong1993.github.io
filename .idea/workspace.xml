@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf4c43c9-9049-4072-bc34-70c8503cd5cc" name="Default Changelist" comment="">
+    <list default="true" id="6f2d39a7-2b70-49ba-abff-5d0664815b6d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/banner-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/banner-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/g2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/g2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/g3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/g3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/g4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/g4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/g5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/g5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/g6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/g6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/g7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/g7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/t3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/t3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,20 +26,20 @@
     <session id="583083591">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="HTML" value="16" />
-          <entry key="PLAIN_TEXT" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="1" />
+          <entry key="CSS" value="3" />
+          <entry key="HTML" value="2" />
+          <entry key="Image" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="491" />
         </counts>
       </usages-collector>
     </session>
@@ -38,11 +49,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="32" selection-start-line="32" selection-end-line="32" />
-              <folding>
-                <element signature="n#head#0;n#html#0;n#!!top" />
-              </folding>
+            <state relative-caret-position="373">
+              <caret line="382" column="56" selection-start-line="382" selection-start-column="56" selection-end-line="382" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/fontawesome-all.min.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2125">
+              <caret line="626" column="18" selection-start-line="626" selection-start-column="12" selection-end-line="626" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -65,7 +82,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="331" />
     <option name="y" value="14" />
     <option name="width" value="1343" />
@@ -76,19 +93,19 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="HomePage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homepage" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeeDong1993.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -112,35 +129,21 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="bf4c43c9-9049-4072-bc34-70c8503cd5cc" name="Default Changelist" comment="" />
-      <created>1547757137300</created>
+      <changelist id="6f2d39a7-2b70-49ba-abff-5d0664815b6d" name="Default Changelist" comment="" />
+      <created>1547957995470</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1547757137300</updated>
-      <workItem from="1547757140518" duration="1462000" />
+      <updated>1547957995470</updated>
+      <workItem from="1547957996761" duration="6286000" />
     </task>
-    <task id="LOCAL-00001" summary="什么">
-      <created>1547757249932</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1547757249932</updated>
-    </task>
-    <task id="LOCAL-00002" summary="更新视频首页">
-      <created>1547758304329</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1547758304330</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1462000" />
+    <option name="totallyTimeSpent" value="6286000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="916" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Favorites" side_tool="true" />
@@ -171,21 +174,46 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="什么" />
-    <MESSAGE value="更新视频首页" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新视频首页" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-          <folding>
-            <element signature="n#head#0;n#html#0;n#!!top" />
-          </folding>
+        <state relative-caret-position="1404">
+          <caret line="7531" column="1" selection-start-line="7531" selection-start-column="1" selection-end-line="7531" selection-end-column="1" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/images/g2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/fontawesome-all.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2125">
+          <caret line="626" column="18" selection-start-line="626" selection-start-column="12" selection-end-line="626" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="382" column="56" selection-start-line="382" selection-start-column="56" selection-end-line="382" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
